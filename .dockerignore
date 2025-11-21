@@ -2,8 +2,6 @@ node_modules
 dist
 .git
 *.log
-tmp
-.cache
-.npm
-README.md
-.eslintrc.js
+*.cache
+.tmp
+coverage
